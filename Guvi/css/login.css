@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    margin-top: 3cm;
+    background-image: url(/Guvi/assets/images/login\ bg.jpg);
+    background-size: 50cm;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(196, 231, 255, 0.608);
+    border: 1cm;
+    border-radius: 1cm;
+    width: 10cm;
+    height: 10cm;
+}
+
+button {
+    border-radius: 5cm;
+    background-color: rgb(196, 231, 255);
+}
+
+input {
+    border-radius: 10%;
+}
